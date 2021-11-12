@@ -15,5 +15,4 @@ const departments = [
     transactions: [300, -50, 150, -110, 90],
   },
 ];
-
-export default departments;
+module.exports = departments;

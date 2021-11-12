@@ -1,5 +1,5 @@
 // run `node index.js` in the terminal
-import departments from './data/departments';
+const departments = require('./data/departments');
 
 console.log(`Hello 123 Node.js v${process.versions.node}!`);
 
